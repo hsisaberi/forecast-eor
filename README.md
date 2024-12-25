@@ -11,7 +11,7 @@ Enhanced Oil Recovery (EOR) using polymers such as Hydrolyzed Polyacrylamide (HP
 ## 🚀 **Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hsisaberi/forecast-eor.git
+   git clone https://github.com/hsisaberi/eor-prediction-polymer.git
    ```
 2. Open MATLAB and navigate to the project folder.
 3. For running the **MLP model**, run the following script in the **MLP folder**:
